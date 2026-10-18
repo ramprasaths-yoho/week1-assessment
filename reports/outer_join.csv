@@ -1,0 +1,10 @@
+id,name,department,salary,city,head,budget
+5.0,Karthik,Finance,90000.0,Mumbai,Meera,250000
+2.0,Priya,HR,45000.0,Chennai,Anu,150000
+8.0,Anitha,HR,48000.0,Mumbai,Anu,150000
+3.0,Rahul,IT,60000.0,Bangalore,Kiran,400000
+4.0,Divya,IT,75000.0,Chennai,Kiran,400000
+7.0,Suresh,IT,68000.0,Chennai,Kiran,400000
+,,Marketing,,,John,100000
+1.0,Arun,Sales,60000.0,Chennai,Ravi,200000
+6.0,Meena,Sales,52000.0,Bangalore,Ravi,200000
